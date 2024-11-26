@@ -4,7 +4,7 @@ I'm a computational biology graduate from UT Austin interested in machine learni
 
 ## 🚀 Currently Working On
 
-- **Machine Learning**: Applying ML techniques to produce compositional data to be studied using a Bayesian hierarchical model. 
+- **Image Processing**: Applying image processing techniques to quanitfy iceberg areas from aerial imagery sourced from the Glacier Bay National Park. 
 
 ## 🛠️ Skills
 
