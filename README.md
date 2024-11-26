@@ -1,6 +1,6 @@
-# Hello! 
+# Howdy! 
 
-I'm a computational biology graduate from UT Austin interested in machine learning and statistics. I’m passionate about expanding my knowledge in these domains and teaching what I've learned to others. 
+I'm Nick and I'm a computational biology graduate from UT Austin interested in machine learning and statistics. I’m passionate about expanding my knowledge in these domains and teaching what I've learned to others. 
 
 ## 🚀 Currently Working On
 
