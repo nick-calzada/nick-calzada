@@ -9,7 +9,7 @@ I'm a computational biology graduate from UT Austin interested in machine learni
 ## 🛠️ Skills
 
 - **Languages**: Python, R 
-- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, PyTorch, TensorFlow, Jupyter Notebooks
+- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, PyTorch, TensorFlow, tidyverse, Jupyter Notebooks
 - **Technical Skills**: Conda/Mamba virtual environments, Git version control
 - **Languages**: English, Spanish
 
