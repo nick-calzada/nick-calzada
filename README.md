@@ -2,9 +2,6 @@
 
 I'm Nick and I'm a computational biology graduate from UT Austin interested in machine learning and statistics. I’m passionate about expanding my knowledge in these domains and teaching what I've learned to others. 
 
-## 🚀 Currently Working On
-
-- **Image Processing**: Applying image processing techniques to quanitfy iceberg areas from aerial imagery sourced from the Glacier Bay National Park. 
 
 ## 🛠️ Skills
 
